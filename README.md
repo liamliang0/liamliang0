@@ -12,6 +12,12 @@ An AI-assisted research system for comparing Hyperliquid and Aster across activi
 
 My focus: research-question design, metric framework, source and scope validation, output review, and iteration decisions.
 
+### [Equity Research Agent](https://github.com/liamliang0/equity-research-agent)
+
+An on-demand AI workflow for equity, ADR and ETF research, with official-source retrieval, evidence trails, thesis ledgers and traceable reports. [See a real run](https://github.com/liamliang0/equity-research-agent/blob/main/examples/report.md).
+
+My focus: question framing, agent/tool configuration, validation criteria, output review, and improving the workflow based on actual failures.
+
 ### [Video-to-Article Research Agent](https://github.com/liamliang0/video-to-article-agent)
 
 A local workflow that converts video links into readable transcripts or structured text and delivers the output through Telegram.
